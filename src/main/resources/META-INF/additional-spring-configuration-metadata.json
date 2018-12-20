@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "dominio",
+    "type": "java.lang.String",
+    "description": "Localización donde se encuentran los recursos estáticos"
+  },
+  {
+    "name": "directorio.data",
+    "type": "java.lang.String",
+    "description": "Localización de disco donde se encuetran los datos a escribir"
+  }
+]}
